@@ -5,11 +5,11 @@ static const Block blocks[] = {
 	{"",	"cputemp",	10,	18},
 	{"",	"memory",	10,	14},
 	{"",	"disk",		60,	5},
-	{"",	"internet",	5,	4},
-	{"",	"nettraf",	1,	16},
+/*	{"",	"internet",	5,	4},*/
+/*	{"",	"nettraf",	1,	16},*/
 	{"",	"volume",	0,	10},
-	{"",	"brightness",	0,	11},
-	{"",	"battery",	60,	3},
+/*	{"",	"brightness",	0,	11},*/
+/*	{"",	"battery",	60,	3},*/
 	{"",	"clock",	60,	1},
 /*	{"", "cat /tmp/recordingicon 2>/dev/null",	0,	9},
 	{"",	"music",	0,	11},
